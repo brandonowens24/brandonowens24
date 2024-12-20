@@ -38,7 +38,7 @@ me.say_hi()
 
 
 ## 📲 Connect with Me!
-<a href="https://linkedin.com/in/brandonowens24">
+<a href="https://www.linkedin.com/in/brandon-owens-800b68203/">
   <img align="left" alt="Brandon Owens - LinkedIn" width="40px" src="https://github.com/arturssmirnovs/arturssmirnovs/blob/master/in.png"/>
 </a>
 <a href="https://instagram.com/brandonowens0">
