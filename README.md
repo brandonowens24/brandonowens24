@@ -6,7 +6,7 @@
 class Developer:
 
     def __init__(self):
-        self.name = "brandon bwens"
+        self.name = "brandon owens"
         self.role = "applied statistics graduate student"
         self.current_position = "graduate research assistant"
         self.hobbies = ["programming", "exercising", "watching movies", "building sports models", "reading"]
