@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=5000&pause=1000&color=F79A2E&width=435&lines=Hi%2C+I'm+Brandon+👋)](https://git.io/typing-svg)
-
+***
 ```python
 
 class Analyst:
