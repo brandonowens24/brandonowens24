@@ -49,7 +49,10 @@ me.say_hi()
   <img align="left" alt="Brandon Owens - GitHub" width="40px" src="https://github.com/arturssmirnovs/arturssmirnovs/blob/master/git.png"/>
 </a>
 
+* Learn more about me: [brandonowens24.github.io](brandonowens24.github.io)
 <br/><br/>
+
+
 
 ## 🗂️ Highlighted Projects
 
