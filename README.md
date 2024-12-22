@@ -17,7 +17,6 @@ class Analyst:
 me = Analyst()
 me.say_hi()
 ```
-
 ## 🛠 &nbsp; Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -38,7 +37,7 @@ me.say_hi()
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-## 📲 Connect with Me!
+## 📲 Let's Get in Touch!
 <a href="https://www.linkedin.com/in/brandon-owens-800b68203/">
   <img align="left" alt="Brandon Owens - LinkedIn" width="40px" src="https://github.com/arturssmirnovs/arturssmirnovs/blob/master/in.png"/>
 </a>
@@ -49,9 +48,11 @@ me.say_hi()
   <img align="left" alt="Brandon Owens - GitHub" width="40px" src="https://github.com/arturssmirnovs/arturssmirnovs/blob/master/git.png"/>
 </a>
 
-* Learn more about me: [brandonowens24.github.io](brandonowens24.github.io)
 <br/><br/>
-
+<ul>
+  <li><strong>Learn more about me:</strong> <a href="https://brandonowens24.github.io" target="_blank">https://brandonowens24.github.io</a></li>
+  <li><strong>Contact Me:</strong> <a href="mailto:brandongerardowens@gmail.com">brandongerardowens@gmail.com</a></li>
+</ul>
 
 
 ## 🗂️ Highlighted Projects
