@@ -2,13 +2,13 @@
 
 ```python
 
-class Analyst:
+class Data Scientist:
 
     def __init__(self):
         self.name = "brandon owens"
         self.role = "applied statistics graduate student"
         self.current_position = "graduate research assistant"
-        self.hobbies = ["programming", "exercising", "watching movies", "building sports models", "reading"]
+        self.hobbies = ["programming", "watching movies", "building sports models", "reading", "chess", "running", "exercising"]
 
     def say_hi(self):
         print("Thanks for dropping by, I hope you find something of interest.")
