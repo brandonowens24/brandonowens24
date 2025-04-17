@@ -2,7 +2,7 @@
 
 ```python
 
-class Data Scientist:
+class Data_Scientist:
 
     def __init__(self):
         self.name = "brandon owens"
