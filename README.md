@@ -14,7 +14,7 @@ class Data_Scientist:
         print("Thanks for dropping by, I hope you find something of interest.")
 
 
-me = Analyst()
+me = Data_Scientist()
 me.say_hi()
 ```
 ## 🛠 &nbsp; Stack
